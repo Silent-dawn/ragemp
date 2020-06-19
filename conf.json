@@ -1,0 +1,18 @@
+{
+    "bind": "0.0.0.0",
+    "port": 26011,
+    "announce": true,
+    "name": "RAGE:MP Unofficial server",
+    "maxplayers": 100,
+    "gamemode": "freeroam",
+    "voice-chat": false,
+    "streamdistance": 500,
+    "encryption": true,
+    "enable-http-security": true,
+    "disallow-multiple-connections-per-ip": true,
+    "limit-time-of-connections-per-ip": 5,
+    "allow-cef-debugging": false,
+    "max-ping": 300,
+    "server-side-weapons-only-mode": true,
+    "csharp": "disabled"
+}
