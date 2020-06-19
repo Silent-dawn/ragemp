@@ -7,8 +7,6 @@
     "gamemode": "freeroam",
     "voice-chat": false,
     "streamdistance": 500,
-    "encryption": true,
-    "enable-http-security": true,
     "disallow-multiple-connections-per-ip": true,
     "limit-time-of-connections-per-ip": 5,
     "allow-cef-debugging": false,
